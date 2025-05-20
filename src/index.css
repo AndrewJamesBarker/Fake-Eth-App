@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.front-hero-bg {
+  background-image: url('/assets/images/crypto-bg-image.webp');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
